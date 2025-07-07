@@ -1,6 +1,8 @@
 # 🐮 Chat GPTETA - A Paródia Bovina do ChatGPT!
 
-<img src="https://i1.sndcdn.com/artworks-ayVdI9JH8zZS6ynP-zbEoQg-t500x500.jpg" alt="Banner do Chat GPTETA" width="250" />
+| Tela 1 | Tela 2 |
+|--------|--------|
+| <img src="https://github.com/danielh-oliveira/chat-gpteta/blob/main/tela1.png" alt="Tela 1 do Chat GPTETA" width="450" /> | <img src="https://github.com/danielh-oliveira/chat-gpteta/blob/main/tela2.png" alt="Tela 2 Chat GPTETA" width="450" /> |
 
 **Chat GPTETA** é uma paródia humorística do ChatGPT que transforma conversas digitais em uma experiência rural divertida! 
 
